@@ -88,3 +88,5 @@ Please upload your results to a publicly accessible Git repo. Free ones are prov
 ## Solution
 Please use this wagger-ui link to test the apis,
 http://server:port/swagger-ui/index.html
+Please note, if you face any issues while running the tests, check the below link, it happened with me initially but later its started working.
+https://github.com/eclipse/buildship/issues/927
